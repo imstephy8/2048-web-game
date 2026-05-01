@@ -1,2 +1,62 @@
-# 2048-web-game
-A browser-based 2048 game built with HTML, CSS, and JavaScript.
+# 2048 Web Game
+
+A browser-based version of the classic 2048 game built with HTML, CSS, and JavaScript.
+
+This project is part of my personal SWE/SDE portfolio. My goal is to add a game section to my personal website, starting with 2048 as my first small web game project. Through this project, I want to practice frontend development, DOM manipulation, game logic, keyboard event handling, and clean project organization.
+
+## Project Goal
+
+The goal of this project is to build a playable 2048 game that runs directly in the browser.
+
+The player can move tiles using keyboard controls. When two tiles with the same number collide, they merge into one tile with double the value. The game continues until the player reaches 2048 or there are no valid moves left.
+
+This project helps me practice:
+
+- Building interactive web pages
+- Writing JavaScript game logic
+- Handling user keyboard input
+- Updating the UI based on game state
+- Organizing code into multiple files
+- Writing a clear README for a portfolio project
+- Using Git and GitHub to track project progress
+
+## Features
+
+Current or planned features include:
+
+- 4x4 game board
+- Random tile generation
+- Tile movement in four directions
+  - Up
+  - Down
+  - Left
+  - Right
+- Tile merging logic
+- Score tracking
+- Game over detection
+- Win condition when the player reaches 2048
+- Restart button
+- Responsive layout for different screen sizes
+- Clean and simple UI design
+
+## Tech Stack
+
+This project is built with:
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+No external frameworks are required for the first version of this project. I want to first build the core game logic with plain JavaScript before adding extra features or styling improvements.
+
+## Project Structure
+
+```text
+2048-web-game/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
