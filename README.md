@@ -50,6 +50,13 @@ This project is built with:
 
 No external frameworks are required for the first version of this project. I want to first build the core game logic with plain JavaScript before adding extra features or styling improvements.
 
+## Attribution
+
+This project is inspired by the original 2048 game created by Gabriele Cirulli.
+
+The original 2048 project is licensed under the MIT License.  
+Original copyright: Copyright (c) 2014 Gabriele Cirulli.
+
 ## Project Structure
 
 ```text
@@ -60,9 +67,3 @@ No external frameworks are required for the first version of this project. I wan
 ├── script.js
 └── README.md
 
-## Attribution
-
-This project is inspired by the original 2048 game created by Gabriele Cirulli.
-
-The original 2048 project is licensed under the MIT License.  
-Original copyright: Copyright (c) 2014 Gabriele Cirulli.
