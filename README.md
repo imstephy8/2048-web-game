@@ -2,7 +2,6 @@
 
 A browser-based version of the classic 2048 game built with HTML, CSS, and JavaScript.
 
-This project is part of my personal SWE/SDE portfolio. My goal is to add a game section to my personal website, starting with 2048 as my first small web game project. Through this project, I want to practice frontend development, DOM manipulation, game logic, keyboard event handling, and clean project organization.
 
 ## Project Goal
 
@@ -60,3 +59,10 @@ No external frameworks are required for the first version of this project. I wan
 ├── style.css
 ├── script.js
 └── README.md
+
+## Attribution
+
+This project is inspired by the original 2048 game created by Gabriele Cirulli.
+
+The original 2048 project is licensed under the MIT License.  
+Original copyright: Copyright (c) 2014 Gabriele Cirulli.
