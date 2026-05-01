@@ -1,6 +1,6 @@
 # 2048 Web Game
 
-This is a project where I want to make a 2048 game. I always play it during/after the class, it helps me kill a lot time.
+This is a project where I want to make since I always play it during/after the class, it helps me kill a lot time.
 
 A browser-based version of the classic 2048 game built with HTML, CSS, and JavaScript.
 
