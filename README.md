@@ -1,8 +1,10 @@
 # 2048 Web Game
 
-This is a project where I want to make since I always play it during/after the class, it helps me kill a lot time.
+This project is inspired by 2048, a game I often play during or after class. I chose this project because I enjoy the game and wanted to practice building an interactive web game by myself.
 
-A browser-based version of the classic 2048 game built with HTML, CSS, and JavaScript.
+The version of 2048 I have played before is here: [2048](https://play2048.co/)
+
+The original 2048 game was created by Gabriele Cirulli. You can view the original GitHub repository here: [Original 2048 GitHub Repository](https://github.com/gabrielecirulli/2048)
 
 
 ## Project Goal
